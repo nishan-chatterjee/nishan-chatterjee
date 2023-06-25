@@ -46,7 +46,7 @@ const nishan = {
    - Automatic discovery, slot filling, and cluster analysis of connected timelines
 
 2. [Master's Thesis - Multimodal Feature Fusion via Graph Neural Networks for Visual Dialog](https://github.com/nishan-chatterjee/visual-dialog):
-	- Baseline: Reimplementation of the GoG model by[Chen et al. (2021)](https://arxiv.org/abs/2109.08475)
+	- Baseline: Reimplementation of the GoG model by [Chen et al. (2021)](https://arxiv.org/abs/2109.08475)
    - Novel Multimodal Fusion Graph Framework using Implicit Relation-Awareness
    - Working on Panoptic Segmentation, caption augmentation and Transformer based approaches
    
