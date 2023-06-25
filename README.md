@@ -1,19 +1,70 @@
-- 👨‍💻 Hi, I’m @nishan-chatterjee
-- 👀 I’m interested in Multi-modal NLP using Deep Learning and Graph Networks using explainble visualizations.
-- 📚 I’m currently learning Message Passing in GNN's.
-- 🖥 I’m looking to collaborate on Visual Dialog, Explainable Chess, and projects related to Political NLP.
-- 📧 How to reach me nishan_chatterjee@outlook.com.
 
+# Hello there. I'm Nishan. 👋
+
+I have a Master's in Computational Linguistics, with a strong focus on Natural Language Processing (NLP), Computer Vision, Multimodality, Information Retrieval, and Interpretable AI. I'm passionate about exploring the boundaries of language and technology to leverage machine learning and deep learning techniques for language understanding and computer vision.
+
+🌍 **Location:** Stuttgart, Germany
+
+🔭 **Currently working on:**
+- Developing a Seq2seq model for automatic timeline summarization.
+- Researching multimodal feature fusion via graph neural networks for Visual Dialog.
+- #100DaysOfCode challenge focused around Language and Vision and Biomedical NLP, using Machine Learning and Deep Learning methods.
+
+💬 **Ask me about:**
+- Natural Language Processing
+- Computer Vision
+- Multimodality
+- Information Retrieval
+- Interpretable AI
+
+📫 **How to reach me:**
+- Email: inishan.chatterjee@gmail.com
+- LinkedIn: [linkedin.com/in/nishanchatterjee](https://www.linkedin.com/in/nishanchatterjee/)
+
+⚡ **Fun fact:**
+I'm working on a model that can dish insults like Monty Python. Here's my favorite:
+"I don't want to talk to you no more, you empty-headed animal-food-trough wiper. I fart in your general direction. Your mother was a hamster, and your father smelt of elderberries."
+
+---
+
+### Skills
+
+```javascript
 const nishan = {
-  code: ["Python", "Java", "C++", "Javascript", "HTML", "CSS", "Ruby"],
+  code: ["Python", "R", "Java", "C", "C++", "MongoDB","MySQL","Selenium", "Bash", "LaTeX"],
   libraries: ["PyTorch", "Tensorflow", "HuggingFace", "keras", "NLTK", "sklearn", "Pandas", "NumPy"],
-  tools: ["VS Code", "IntelliJ IDEA", "Git", "Jupyterlab", "Docker"],
-  interests: ["NLP", "Computer Vision", "Deep Learning"],
+  tools: ["VS Code", "Linux Server","Git", "JupyterLab", "Docker"],
+  interests: ["NLP", "Computer Vision", "Medicine", "Deep Learning", "Machine Learning"],
   challenge: "I am doing the #100DaysOfCode challenge focused around Language and Vision and Biomedical NLP, using Machine Learning and Deep Learning"
 }
+```
 
+### Projects
 
-<!---
-nishan-chatterjee/nishan-chatterjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+1. Automatic Timeline Summarization:
+   - Developing a Seq2seq model for generating timeline from research abstracts and citation graphs
+   - Automatic discovery, slot filling, and cluster analysis of connected timelines
+
+2. [Master's Thesis - Multimodal Feature Fusion via Graph Neural Networks for Visual Dialog](https://github.com/nishan-chatterjee/visual-dialog):
+	- Baseline: Reimplementation of the GoG model by[Chen et al. (2021)](https://arxiv.org/abs/2109.08475)
+   - Novel Multimodal Fusion Graph Framework using Implicit Relation-Awareness
+   - Working on Panoptic Segmentation, caption augmentation and Transformer based approaches
+   
+3. [Neural Belief Tracker - Dialog Modeling](https://github.com/acxcv/nbt.git):
+	- Implementation of a Neural Belief State Tracker based on [Nikola Mrkšić and Ivan Vulić](https://aclanthology.org/P18-2018/)
+	- Context Modeling of System Output with User Utterances to improve Candidate Pairs
+
+5. [BioMedScribe](https://github.com/nishan-chatterjee/BioMedScribe):
+   - Projects centered around the statistical analysis of medical data
+
+6. [Emotion Analysis and Semantic Role Labeling](https://github.com/nishan-chatterjee/emotion-analysis):
+   - Classification of Ekman's Emotions across multiple datasets using LSTM, BERT
+   - Human and automatic annotations of emotion role labels 
+
+### Experience
+
+- System Analyst and Full-Stack Developer (Working Student) at IMS, Universität Stuttgart
+- Systems Engineer Trainee (Employee) at Infosys Limited
+
+### Hobbies
+I'm teaching myself how to play the guitar and chess. I like listening to audiobooks while running or cooking. Also, I will make too many dad-jokes. Apologies in advance.
