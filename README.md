@@ -6,9 +6,9 @@ I have a Master's in Computational Linguistics, with a strong focus on Natural L
 🌍 **Location:** Stuttgart, Germany
 
 🔭 **Currently working on:**
-- Developing a Seq2seq model for automatic timeline summarization.
-- Researching multimodal feature fusion via graph neural networks for Visual Dialog.
-- #100DaysOfCode challenge focused around Language and Vision and Biomedical NLP, using Machine Learning and Deep Learning methods.
+- Developing a Seq2seq model for automatic timeline summarization
+- Researching multimodal feature fusion via graph neural networks for Visual Dialog
+- #100DaysOfCode challenge focused on Language and Vision, and Biomedical NLP, using Machine Learning and Deep Learning methods
 
 💬 **Ask me about:**
 - Natural Language Processing
@@ -18,8 +18,8 @@ I have a Master's in Computational Linguistics, with a strong focus on Natural L
 - Interpretable AI
 
 📫 **How to reach me:**
-- Email: inishan.chatterjee@gmail.com
-- LinkedIn: [linkedin.com/in/nishanchatterjee](https://www.linkedin.com/in/nishanchatterjee/)
+- [Email](inishan.chatterjee@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/nishanchatterjee/)
 
 ⚡ **Fun fact:**
 I'm working on a model that can dish insults like Monty Python. Here's my favorite:
@@ -31,10 +31,10 @@ I'm working on a model that can dish insults like Monty Python. Here's my favori
 
 ```javascript
 const nishan = {
-  code: ["Python", "R", "Java", "C", "C++", "MongoDB","MySQL","Selenium", "Bash", "LaTeX"],
-  libraries: ["PyTorch", "Tensorflow", "HuggingFace", "keras", "NLTK", "sklearn", "Pandas", "NumPy"],
-  tools: ["VS Code", "Linux Server","Git", "JupyterLab", "Docker"],
-  interests: ["NLP", "Computer Vision", "Medicine", "Deep Learning", "Machine Learning"],
+  code: ["Python", "R", "Java", "C", "C++", "MongoDB", "MySQL", "Selenium", "Bash", "LaTeX"],
+  libraries: ["PyTorch", "Tensorflow", "HuggingFace", "keras", "NLTK", "scikit-learn", "Pandas", "NumPy"],
+  tools: ["VS Code", "Linux Server", "Git", "JupyterLab", "Docker"],
+  interests: ["Information Visualization", "NLP", "Computer Vision", "Medicine", "Deep Learning", "Machine Learning"],
   challenge: "I am doing the #100DaysOfCode challenge focused around Language and Vision and Biomedical NLP, using Machine Learning and Deep Learning"
 }
 ```
@@ -42,13 +42,13 @@ const nishan = {
 ### Projects
 
 1. Automatic Timeline Summarization:
-   - Developing a Seq2seq model for generating timeline from research abstracts and citation graphs
+   - Developing a Seq2seq model for generating a timeline from research abstracts and citation graphs
    - Automatic discovery, slot filling, and cluster analysis of connected timelines
 
 2. [Master's Thesis - Multimodal Feature Fusion via Graph Neural Networks for Visual Dialog](https://github.com/nishan-chatterjee/visual-dialog):
 	- Baseline: Reimplementation of the GoG model by [Chen et al. (2021)](https://arxiv.org/abs/2109.08475)
    - Novel Multimodal Fusion Graph Framework using Implicit Relation-Awareness
-   - Working on Panoptic Segmentation, caption augmentation and Transformer based approaches
+   - Working on Panoptic Segmentation, caption augmentation, and Transformer based approaches
    
 3. [Neural Belief Tracker - Dialog Modeling](https://github.com/acxcv/nbt.git):
 	- Implementation of a Neural Belief State Tracker based on [Nikola Mrkšić and Ivan Vulić](https://aclanthology.org/P18-2018/)
@@ -67,4 +67,4 @@ const nishan = {
 - Systems Engineer Trainee (Employee) at Infosys Limited
 
 ### Hobbies
-I'm teaching myself how to play the guitar and chess. I like listening to audiobooks while running or cooking. Also, I will make too many dad-jokes. Apologies in advance.
+I'm teaching myself how to play the guitar and chess. I like listening to audiobooks while running or cooking. Also, I will make way too many dad jokes. Apologies in advance.
