@@ -67,4 +67,4 @@ const nishan = {
 - Systems Engineer Trainee (Employee) at Infosys Limited
 
 ### Hobbies
-I'm teaching myself how to play the guitar and chess. I like listening to audiobooks while running or cooking. Also, I will make way too many dad jokes. Apologies in advance.
+I'm teaching myself how to play chess and guitar. Hopefully, I can manage to do both simultaneously. I like listening to audiobooks while running or cooking. Also, my brain makes way too many dad jokes. Apologies in advance for this feature.
