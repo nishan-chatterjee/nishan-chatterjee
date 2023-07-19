@@ -8,7 +8,7 @@ I have a Master's in Computational Linguistics, with a strong focus on Natural L
 🔭 **Currently working on:**
 - Developing a Seq2seq model for automatic timeline summarization
 - Researching multimodal feature fusion via graph neural networks for Visual Dialog
-- #100DaysOfCode challenge focused on Language and Vision, and Biomedical NLP, using Machine Learning and Deep Learning methods
+- #100DaysOfCode challenge focused on Algorithms, Language and Vision, Graphs, and Visualizations, using Machine Learning, Deep Learning, and Geometric Deep Learning methods
 
 💬 **Ask me about:**
 - Natural Language Processing
