@@ -34,8 +34,7 @@ const nishan = {
   code: ["Python", "R", "Java", "C", "C++", "MongoDB", "MySQL", "Selenium", "Bash", "LaTeX"],
   libraries: ["PyTorch", "Tensorflow", "HuggingFace", "keras", "NLTK", "scikit-learn", "Pandas", "NumPy"],
   tools: ["VS Code", "Linux Server", "Git", "JupyterLab", "Docker"],
-  interests: ["Information Visualization", "NLP", "Computer Vision", "Medicine", "Deep Learning", "Machine Learning"],
-  challenge: "I am doing the #100DaysOfCode challenge focused around Language and Vision and Biomedical NLP, using Machine Learning and Deep Learning"
+  interests: ["Information Visualization", "NLP", "Computer Vision", "Knowledge Graphs", "Biomedical NLP", "Algorithms", "Deep Learning", "Machine Learning"],
 }
 ```
 
