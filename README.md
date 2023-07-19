@@ -43,7 +43,7 @@ const nishan = {
 1. [Automatic Timeline Summarization](https://github.com/nishan-chatterjee/the-great-weaver/)*:
    - Developing a Seq2seq model for generating a timeline from research abstracts and citation graphs
    - Automatic discovery, slot filling, and cluster analysis of connected timelines
-Note: Progress noted here might be slow!!
+> Note: Progress noted here might be slow!!
 
 2. [Master's Thesis - Multimodal Feature Fusion via Graph Neural Networks for Visual Dialog](https://github.com/nishan-chatterjee/visual-dialog):
 	- Baseline: Reimplementation of the GoG model by [Chen et al. (2021)](https://arxiv.org/abs/2109.08475)
