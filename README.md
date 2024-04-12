@@ -1,7 +1,7 @@
 
 # Hello there. I'm Nishan. 👋
 
-I'm doing a PhD in Political NLP around aspect-based sentiment analysis, discourse analysis, and diachronic analysis across various media (news, historical archives, social media, surveys) using multilingual and multimodal datasets. I'm passionate about exploring the boundaries of language and technology.
+I'm currently pursuing a PhD in Natural Language Processing, focusing on the nature of Political Discourse across various mediums like news, parliamentary proceedings, historical archives, social media, and surveys. I'm interested in exploring the boundaries of language and vision.
 
 🌍 **Current Location (or whenever this was last updated):** Ljubljana, Slovenia
 
