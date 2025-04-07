@@ -20,8 +20,9 @@ I'm currently pursuing a PhD in Natural Language Processing, focusing on the nat
 - Visualizations
 
 📫 **How to reach me:**
-- [Email](inishan.chatterjee@gmail.com)
+- [Email](nishan.chatterjee@univ-lr.fr)
 - [LinkedIn](https://www.linkedin.com/in/nishanchatterjee/)
+- [Scholar](https://scholar.google.com/citations?user=x4gvWUUAAAAJ&hl=en)
 
 ⚡ **Fun fact:**
 I'm working on a model that can dish insults like Monty Python. Here's my favourite:
