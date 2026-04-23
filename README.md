@@ -76,3 +76,7 @@ const nishan = {
 - Learning to play chess and guitar. Soon, I hope to do both simultaneously and become unstoppable!!
 - Listening to audiobooks while running or cooking
 - Also, my brain makes way too many dad jokes. I'm sorry about this feature.
+
+### Somewhat Borrowed Quotes (that also apply to LLMs)
+- My code is utterly incomprehensible and is therefore full of deep significance.
+- I cannot remember the books I've been forced to read, any more than the ones I have written; even so, they have made me.
